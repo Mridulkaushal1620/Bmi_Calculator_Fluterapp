@@ -132,7 +132,7 @@ class myHomePage extends State<MyHomePage>{
                   }
                 }, child: Text("Calculate")),
                 SizedBox(
-                  height: 16,
+                  height: 20,
                 ),
                 Text(result,style: TextStyle(fontSize: 19),),
               ],
