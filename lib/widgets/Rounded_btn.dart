@@ -38,7 +38,7 @@ class RoundedButton extends StatelessWidget{
           shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.only(
               topRight: Radius.circular(21),
-              bottomLeft: Radius.circular(22)
+              bottomLeft: Radius.circular(21)
               )
           )
         ),
